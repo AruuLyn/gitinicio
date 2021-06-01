@@ -1,0 +1,2 @@
+# gitinicio
+pequeño proyecto
